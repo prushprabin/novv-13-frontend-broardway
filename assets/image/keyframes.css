@@ -1,0 +1,9 @@
+@keyframes fadeinup{
+    from{
+        top:calc(100% + 15px);
+        }
+    to{
+        top:calc(98%);
+        /* box-shadow: 10px 0px 5px rgba(0,0,0,0.4); */
+    }
+}
